@@ -18,3 +18,7 @@ Selenium WebDriver with ( Cucumber & TestNg )
 8. Follow us
 9. Search
 10. view content of random categories
+
+# Notes
+
+Each feature has several scenarios and each scenario has its own test cases.
